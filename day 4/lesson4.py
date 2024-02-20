@@ -1,0 +1,6 @@
+age = input("Enter your age: 15")
+username = input("Enter your username: giorgikaplanishvili")
+age = int(age)
+username = str(username)
+print("Your age is", age)
+print("your username is:", username)
